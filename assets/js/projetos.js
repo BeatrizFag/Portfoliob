@@ -7,11 +7,11 @@ function projetos(section) {
 
 
         <div class="card">
-          <h3>Meu Portifólio</h3>
+          <h3>Meu Portfólio</h3>
           <div class="img-wrapper">
             <img src="./assets/images/projects/meu.portifolio.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/BeatrizFag/Portifoliob" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/BeatrizFag/Portfoliob" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
